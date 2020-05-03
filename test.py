@@ -1,0 +1,11 @@
+print("hello world")
+print('hola mundo')
+print('hello world')
+print('hola mundo')
+print('hello world')
+print('hola mundo')
+print('hello world')
+X=0
+print('hola mundo')
+print('hello world')
+print('hola mundo')
